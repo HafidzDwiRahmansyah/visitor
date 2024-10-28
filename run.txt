@@ -1,0 +1,4 @@
+run program visitor :
+
+1. nyalakan laragon : start
+2. jalankan program laravel : masuk ke folder project setelah itu jalankan, php artisan serve
